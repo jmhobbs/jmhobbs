@@ -6,4 +6,4 @@ I'm John Hobbs.  I work on a wide array of odds and ends, most of which you can 
 
 - [My Blog](https://velvetcache.org)
 - [Twitter](https://twitter.com/jmhobbs)
-- <a rel="me" href="https://noc.social/@jmhobbs">Mastodon</a>
+- <a rel="me nofollow" href="https://noc.social/@jmhobbs">Mastodon</a>
